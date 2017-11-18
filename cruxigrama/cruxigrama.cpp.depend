@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508339913 source:c:\users\am\documents\cruxigrama.cpp\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
